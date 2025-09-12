@@ -2,16 +2,18 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Mihir Mukhi
+- **CCID:** mmukhi
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.geeksforgeeks.org/android/a-complete-guide-to-learn-xml-for-android-app-development/
+https://www.digitalocean.com/community/tutorials/android-constraintlayout
+https://www.geeksforgeeks.org/android/java-for-android-building-your-first-android-app/
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| N/A    | N/A |
+
